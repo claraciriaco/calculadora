@@ -2,10 +2,10 @@
   display:block;
   margin:0 auto;
   padding:20px;
-  background-color: #E0FFFF;
+  background-color: #FFFF;
   width:300px;
   height:500px;
-  border-radius: 25px;
+  border-radius: 10px;
 }
 .calculadora td button{
   display:block;
@@ -14,13 +14,13 @@
   font-size: 25px;
 }
 .button{
-  background-color: #ADD8E6;
+  background-color: #D3D3D3;
 }
 .botaoapagar{
-  background-color:#E9967A;
+  background-color:#6495ED;
 }
 .botao{
-  background-color:#FFF68F;
+  background-color:#A9A9A9;
 }
 .botaoigual{
   background-color:#C1FFC1;
@@ -33,10 +33,10 @@
   font-size: 40px;
   margin-bottom: 50px;
   width:300px;
-  height: 100px;
+  height: 120px;
   line-height: 100px;
   background-color:#fff;
   border-radius: 25px;
-  background-color:#E6E6FA;
+  background-color:#F5F5F5;
 }
 
